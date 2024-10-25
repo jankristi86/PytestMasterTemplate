@@ -1,0 +1,5 @@
+{
+  "url": "http://localhost:10005",
+  "browser": "Chrome",
+  "headless_mode": false
+}

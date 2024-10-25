@@ -1,0 +1,8 @@
+.idea/
+**/__pycache__
+.venv
+**/log.txt
+env.bat
+env_docker.bat
+pytest.ini
+setup.py
